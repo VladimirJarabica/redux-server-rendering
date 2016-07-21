@@ -1,5 +1,7 @@
-# redux-server-rendering
+# Redux server rendering
 Example demo of react app with redux store initialized on server.
+
+Based on great [remarkablemark's tutorial](https://www.youtube.com/watch?v=k66bOHX8MnY).
 
 Nodejs is required
 ## Run
